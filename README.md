@@ -4,7 +4,7 @@ a programmer that is always trying to improve.
  
 - 📊 I'm strongly interested in projects with **Machine Learning** and **Data Science**.
 - ❓ I often share/create a few personal projects on public posts, so check out my <a href="https://medium.com/@joaopedro214">Medium Profile</a> and my <a href="https://jaumpedro214.github.io/">Portfolio</a>.
-- 🎯 Currently Learning: MLOps and DevOps, Data Engineering, APIs, Design Patterns
+- 🎯 Currently Learning: Business Intelligence, Data Engineering and Data Architecture, APIs, Design Patterns
 - 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing/Readability, Math and Statistics
 
 **Feel free to contact me**:

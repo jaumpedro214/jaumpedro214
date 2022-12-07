@@ -25,8 +25,6 @@ a programmer that is always trying to improve.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaumpedro214&layout=compact&theme=dark&hide=CSS)](https://github.com/jaumpedro214/github-readme-stats)
-
 <!---
 jaumpedro214/jaumpedro214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
